@@ -23,7 +23,7 @@ app.listen(3000, function () {
 app.set('view engine', 'ejs');
 
 
-//get request
+
 
 app.get("/", function (req, res) {
 
